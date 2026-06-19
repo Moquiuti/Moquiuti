@@ -6,6 +6,7 @@ Atuo principalmente com **Java, Spring Boot, Oracle, PL/SQL, APIs REST, mensager
 
 Tenho experiência em projetos de integração, modernização de sistemas legados, construção de APIs, regras de negócio complexas, processamento financeiro, pipelines de dados e apoio técnico em decisões arquiteturais.
 
+Gosto de aprender construindo, testando e aplicando tecnologia em problemas reais de negócio.
 ---
 
 ## 🔎 Para me encontrar

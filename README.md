@@ -75,3 +75,13 @@ Atualmente venho estudando e aplicando conceitos como:
 Back-End Developer | Java | Spring Boot | Oracle | PL/SQL | APIs REST
 Microsserviços | Integrações | Mensageria | RabbitMQ | AWS | Docker
 LangChain | LangGraph | RAG | Agentes de IA | Human-in-the-Loop
+
+## 📊 GitHub Stats
+
+<div align="left">
+
+![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Moquiuti&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moquiuti&layout=compact&theme=tokyonight)
+
+</div>

@@ -2,9 +2,9 @@
 
 Meu nome é **Leandro Moquiuti** e sou desenvolvedor com forte atuação em **Back-End, integrações corporativas, bancos de dados Oracle e soluções baseadas em IA**.
 
-Atuo principalmente com **Java, Spring Boot, Oracle, PL/SQL, APIs REST, mensageria, microsserviços e arquitetura de sistemas corporativos**. Também venho me aprofundando em projetos envolvendo **Inteligência Artificial aplicada ao desenvolvimento**, com foco em **LangChain, LangGraph, RAG, agentes de IA, Human-in-the-Loop e automação de fluxos inteligentes**.
+Atuo principalmente com **Java, Spring Boot, Oracle, PL/SQL, APIs REST, mensageria, microsserviços e arquitetura de sistemas corporativos**. Também venho me aprofundando em projetos envolvendo **Inteligência Artificial Generativa, LangChain, LangGraph e pipelines RAG**.
 
-Tenho experiência em projetos de integração, modernização de sistemas legados, construção de APIs, regras de negócio complexas, processamento financeiro, pipelines de dados e apoio técnico em decisões arquiteturais.
+Tenho experiência em projetos de integração, modernização de sistemas legados, construção de APIs, regras de negócio complexas, processamento financeiro, pipelines de dados e apoio técnico a times de desenvolvimento.
 
 Gosto de aprender construindo, testando e aplicando tecnologia em problemas reais de negócio.
 ---
@@ -85,5 +85,36 @@ LangChain | LangGraph | RAG | Agentes de IA | Human-in-the-Loop
 ![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Moquiuti&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moquiuti&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 📈 Gráfico de Atividade
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Moquiuti&theme=tokyo-night&hide_border=true&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🧭 Distribuição de Contribuições
+
+<div align="center">
+
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moquiuti&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moquiuti&theme=tokyonight" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moquiuti&theme=tokyonight" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Moquiuti&theme=tokyonight" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Moquiuti&theme=tokyonight&utcOffset=-3" /></td>
+  </tr>
+</table>
 
 </div>

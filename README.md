@@ -82,9 +82,9 @@ LangChain | LangGraph | RAG | Agentes de IA | Human-in-the-Loop
 
 <div align="left">
 
-![Leandro GitHub stats](https://github-stats-extended.vercel.app/api?username=Moquiuti&show_icons=true&theme=tokyonight)
+![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Moquiuti&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Moquiuti&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moquiuti&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -108,12 +108,12 @@ LangChain | LangGraph | RAG | Agentes de IA | Human-in-the-Loop
 
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moquiuti&theme=tokyonight" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moquiuti&theme=tokyonight" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moquiuti&theme=tokyonight" alt="Repos per Language" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moquiuti&theme=tokyonight" alt="Most Commit Language" /></td>
   </tr>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Moquiuti&theme=tokyonight" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Moquiuti&theme=tokyonight&utcOffset=-3" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Moquiuti&theme=tokyonight" alt="Stats" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Moquiuti&theme=tokyonight&utcOffset=-3" alt="Productive Time" /></td>
   </tr>
 </table>
 

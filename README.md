@@ -82,9 +82,9 @@ LangChain | LangGraph | RAG | Agentes de IA | Human-in-the-Loop
 
 <div align="left">
 
-![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Moquiuti&show_icons=true&theme=tokyonight)
+![Leandro GitHub stats](https://github-stats-extended.vercel.app/api?username=Moquiuti&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moquiuti&layout=compact&theme=tokyonight)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Moquiuti&layout=compact&theme=tokyonight)
 
 </div>
 
